@@ -4,8 +4,9 @@ Circular-Menu
 Customizable circular menu for iOS.
 
 <br><br>
-<a href='http://postimage.org/' target='_blank'><img src='http://s4.postimg.org/l8w4cy7d9/Captura_de_pantalla_2014_04_05_a_la_s_17_31_31.png' border='0' alt="Captura de pantalla 2014 04 05 a la(s) 02 53 39" /></a>
+<a href="https://imgflip.com/gif/7yn0p"><img src="//i.imgflip.com/7yn0p.gif" title="made at imgflip.com"/></a>
 <br>
+
 
 
 Requirements
