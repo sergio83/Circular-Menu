@@ -4,14 +4,10 @@ Circular-Menu
 Customizable circular menu for iOS.
 
 <br><br>
-<a href="https://imgflip.com/gif/7yn0p"><img src="//i.imgflip.com/7yn0p.gif" title="made at imgflip.com"/></a>
+<a href="http://s8.postimg.org/d5v00hd79/7yn0p.gif"><img src="http://s8.postimg.org/d5v00hd79/7yn0p.gif" title="made at imgflip.com"/></a>
 <br>
 
-<br><br>
-<a href='https://imgflip.com/gif/7yn0p' target='_blank'><img src='https://imgflip.com/gif/7yn0p' border='0' alt="" /></a>
-<br>
 
-<a href="https://imgflip.com/gif/7yn0p"><img src="//i.imgflip.com/7yn0p.gif" title="made at imgflip.com"/></a>
 
 Requirements
 ==============
