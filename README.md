@@ -11,6 +11,8 @@ Customizable circular menu for iOS.
 <a href='https://imgflip.com/gif/7yn0p' target='_blank'><img src='https://imgflip.com/gif/7yn0p' border='0' alt="" /></a>
 <br>
 
+<a href="https://imgflip.com/gif/7yn0p"><img src="//i.imgflip.com/7yn0p.gif" title="made at imgflip.com"/></a>
+
 Requirements
 ==============
 - iOS 7.0
